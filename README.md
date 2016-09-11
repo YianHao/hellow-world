@@ -1,2 +1,5 @@
 # hellow-world
-just another respository
+
+Hi,everyone!
+
+I'd like to learn coding and machine learning.
